@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Using Machine Learning
+#  The Model Machine Learning to demonstrates its potential to forecast Titanic passenger survival effectively.
 ## Importing Libraries
 In this project, **I import essential libraries** that play pivotal roles in enhancing data manipulation and visualization capabilities:
   * pandas: A versatile library for data manipulation and analysis, enabling me to handle tabular data structures effectively.
